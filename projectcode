@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<body style="background-color:CadetBlue ;">
+  
+<h1>How To Make Images In HTML </h1>
+<p>To make images in HTML is very simple. You could use GIf's, JPG's, and PNG's as your images.  </p>
+
+<p>To put in an image you will first have to us the tag < img src= . The you will grab the link of the image you want to use for example "skyscraper.jpg". Now your line of code should look like this < img src="skyscraper.jpg"
+
+<div>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Internationalplace.jpg/100px-Internationalplace.jpg 
+              
+<p><b> You can leave you image looking like this if you like but there are ways to adjust the height and width of your image.</p></b>  
+  
+  <h2> Height & Width (Style)</h2>
+ 
+  <p> If you can't find the perfect sized image you need not a problem, just use the style tag you can change the size of the image to you liking. 
+    
+<p> To change the Height & Width of an image you have to use style= . One you have the tag Style= you must add in width & Height. So it should look something like this...  style="width0px:; height:0px;"> </p>
+ 
+<p> Here you will enter your pixels to make it the size you want. style="width:250px;height:200px;"> </p>
+  
+<div>
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Internationalplace.jpg/100px-Internationalplace.jpg style="width:250px;height:200px;">
+  
+  <p><b> Your Image is now the size that you want. </b><p>
+</body>
+</html>
+</body>
+</html>
